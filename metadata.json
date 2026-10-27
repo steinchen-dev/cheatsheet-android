@@ -1,0 +1,6 @@
+{
+  "name": "CheatSheet",
+  "description": "100% native offline CheatSheet app with glassmorphism design, fast search, custom categories, shortcuts, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- CheatSheet Frosted Card Shape (Squircle centered) -->
+    <path
+        android:fillColor="#0B2B36"
+        android:strokeColor="#84B0AE"
+        android:strokeWidth="2.5"
+        android:pathData="M38,28 L70,28 A10,10 0 0 1 80,38 L80,70 A10,10 0 0 1 70,80 L38,80 A10,10 0 0 1 28,70 L28,38 A10,10 0 0 1 38,28 Z" />
+    <!-- Command Prompt / Code chevron '>' -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#84B0AE"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M37,42 L45,49 L37,56" />
+    <!-- Shortcut lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#CFD5D7"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:pathData="M52,49 L71,49" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#527276"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:pathData="M37,64 L67,64" />
+</vector>
