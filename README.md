@@ -2,7 +2,8 @@
 # CheatSheet 🌊⚡
 > **100% Native, Offline-First Android CheatSheet & IT Knowledge Base mit echtem Glassmorphismus & 120Hz Support.**
 
-![CheatSheet Preview](public/assets/aistudio/Gemini_Generated_Image_hgkma4hgkma4hgkm_c2ffa8b8.jpg)
+![CheatSheet Preview](public/assets/aistudio/<img width="1070" height="735" alt="grafik" src="https://github.com/user-attachments/assets/ce2556d9-6cb1-4be8-ad52-e85ea807f9ac" />
+)
 
 [![Android](https://img.shields.io/badge/Platform-Android_14+-3DDC84.svg?style=flat&logo=android&logoColor=white)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0+-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
