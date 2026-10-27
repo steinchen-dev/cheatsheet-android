@@ -1,8 +1,7 @@
 ⚠️ Achtung das ganze ist AI umgesetzt und ich kann nicht garantieren das alle zu 100% läuft.⚠️ 
 # CheatSheet 🌊⚡
 > **100% Native, Offline-First Android CheatSheet & IT Knowledge Base mit echtem Glassmorphismus & 120Hz Support.**
-
-![CheatSheet Preview](public/assets/aistudio/<img width="1070" height="735" alt="grafik" src="https://github.com/user-attachments/assets/ce2556d9-6cb1-4be8-ad52-e85ea807f9ac" />
+<img width="1070" height="735" alt="grafik" src="https://github.com/user-attachments/assets/ce2556d9-6cb1-4be8-ad52-e85ea807f9ac" />
 )
 
 [![Android](https://img.shields.io/badge/Platform-Android_14+-3DDC84.svg?style=flat&logo=android&logoColor=white)](https://developer.android.com)
