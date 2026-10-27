@@ -1,3 +1,4 @@
+⚠️ Achtung das ganze ist AI umgesetzt und ich kann nicht garantieren das alle zu 100% läuft.⚠️ 
 # CheatSheet 🌊⚡
 > **100% Native, Offline-First Android CheatSheet & IT Knowledge Base mit echtem Glassmorphismus & 120Hz Support.**
 
